@@ -2,6 +2,9 @@
 #nav {
   background-color:lightblue;
   text-align: center;
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 body {
