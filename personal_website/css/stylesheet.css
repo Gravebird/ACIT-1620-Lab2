@@ -5,5 +5,7 @@ body {
 
 nav {
   background-color:lightblue;
-  text-align:center
+  text-align:center;
+  list-style-position: inside;
+  width: 200px;
 }
